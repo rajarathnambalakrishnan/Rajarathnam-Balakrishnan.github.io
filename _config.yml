@@ -1,23 +1,24 @@
 title: Rajarathnam Balakrishnan # your name (or website title) here
-#logo: "/images/profile.png?raw=true" # your photo (or logo) here
-<img style="float: left;" src="/images/profile.png?raw=true" width="80" height="80"/>
+logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Enthusiast, Startups passionate 
+  Deep Learning and Machine Learning Enthusiast, Passionate in Autonomous Vehicles 
   <br><br>
-  I'm Raja! Thank you for taking the time to know more about me.
+  Hellot there! I'm Raja!
   <br>
-  I'm from Chennai, India. I have a Bachelors in Mechanical Engineering and just completed my Masters in Industrial Engineering and Operations Research at UC Berkeley.
+  Thank you for taking the time to know more about me. I'm from Chennai, India. 
+  I have a Bachelors in Mechanical Engineering and just completed my Masters in 
+  Industrial Engineering and Operations Research at UC Berkeley.
   <br>
-  <a href='https://www.linkedin.com/in/francesco-piccoli'>
+  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135'>
   <img src="/images/linkedin.png?raw=true" width="30" height="30">
   </a>
-  <a href='https://github.com/Francesco-Piccoli'>
+  <a href='https://github.com/rajarathnambalakrishnan'>
   <img src="/images/github.png?raw=true" width="30" height="30">
   </a>
-  <a href=''>
-  <img src="/images/instagram.png?raw=true" width="30" height="30">
+  <a href='rajarathnam_b@berkeley.edu'>
+  <img src="/images/gmail.png?raw=true" width="30" height="30">
   </a>
-  <a href='https://www.instagram.com/francescopiccoli.fp/?hl=en'>
-  <img src="/images/instagram.png?raw=true" width="30" height="30">
+  <a href='rajarathnambalakrishnan@gmail.com'>
+  <img src="/images/gmail.png?raw=true" width="30" height="30">
   </a>
 theme: jekyll-theme-minimal
