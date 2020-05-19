@@ -16,6 +16,9 @@ Research Paper
 <br><br>
 <p align='left'>
 <img src="images/modelA.gif?raw=true" width="160" height="90"/>
+<img src="images/modelC.gif?raw=true" width="160" height="90"/>
+<img src="images/modelC.gif?raw=true" width="160" height="90"/>
+<img src="images/modelC.gif?raw=true" width="160" height="90"/>
 </p>
 <p align='right'>
 <img src="images/modelC.gif?raw=true" width="160" height="90"/>
