@@ -8,26 +8,25 @@ description: > # your text below (remove <br> elements if you don't need line br
   Thank you for taking the time to know more about me. I'm from Chennai, India. 
   I'm a recent UC Berkeley Grad.
   <br>
-  </a>
-  <img src="/images/linkedin.png" width="30" height="30"/>
   <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135'>
-  LinkedIn Page
+  <img src="/images/linkedin.png" width="30" height="30">
+  #LinkedIn Page
   </a>
   <br>
-  <a>
-  <img src="/images/github.png" width="30" height="30"/>
+
+  <img src="/images/github.png" width="30" height="30">
   <a href='https://github.com/rajarathnambalakrishnan'>
   GitHub Page
   </a>
   <br>
-  <a>
-  <img src="/images/gmail.png" width="30" height="30"/>
+
+  <img src="/images/gmail.png" width="30" height="30">
   <a href='mailto: rajarathnam_b@berkeley.edu'>
   rajarathnam_b@berkeley.edu
   </a>
   <br>
-  <a>
-  <img src="/images/gmail.png" width="30" height="30"/>
+
+  <img src="/images/gmail.png" width="30" height="30">
   <a href='mailto: rajarathnambalakrishnan@gmail.com'>
   rajarathnambalakrishnan@gmail.com
   </a>
