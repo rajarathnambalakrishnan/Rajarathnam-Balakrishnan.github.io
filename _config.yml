@@ -9,21 +9,23 @@ description: > # your text below (remove <br> elements if you don't need line br
   I have a Bachelors in Mechanical Engineering and just completed my Masters in 
   Industrial Engineering and Operations Research at UC Berkeley.
   <br>
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rajarathnam-balakrishnan-7b447b135"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135?trk=profile-badge'>Rajarathnam Balakrishnan</a></div>
+  </a>
+  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135'>
+  <img src="/images/linkedin.png" width="30" height="30">
+  </a>
   <br>
   </a>
   <a href='https://github.com/rajarathnambalakrishnan'>
-  <img src="/images/github.png?raw=true" width="30" height="30">
+  <img src="/images/github.png" width="30" height="30">
   </a>
   <br>
-  <img src="/images/gmail.png?raw=true" width="30" height="30">
-  <a href='rajarathnam_b@berkeley.edu'>
+  <img src="/images/gmail.png" width="30" height="30">
+  <a href='mailto: rajarathnam_b@berkeley.edu'>
   email
   </a>
   <br>
-  <img src="/images/gmail.png?raw=true" width="30" height="30">
-  <a href='rajarathnambalakrishnan@gmail.com'>
+  <img src="/images/gmail.png" width="30" height="30">
+  <a href='mailto: rajarathnambalakrishnan@gmail.com'>
   email
   </a>
   
