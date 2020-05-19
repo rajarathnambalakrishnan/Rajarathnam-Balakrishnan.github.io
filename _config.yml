@@ -1,5 +1,6 @@
 title: Rajarathnam Balakrishnan # your name (or website title) here
-logo: "/images/profile.png?raw=true" # your photo (or logo) here
+#logo: "/images/profile.png?raw=true" # your photo (or logo) here
+<img style="float: left;" src="/images/profile.png?raw=true" width="100" height="100"/>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Enthusiast, Startups passionate 
   <br><br>
