@@ -1,9 +1,11 @@
+<p align='center'>
 title: Rajarathnam Balakrishnan # your name (or website title) here
+</p>
 logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Deep Learning and Machine Learning Enthusiast, Passionate in Autonomous Vehicles 
   <br><br>
-  Hellot there! I'm Raja!
+  Hello there! I'm Raja!
   <br>
   Thank you for taking the time to know more about me. I'm from Chennai, India. 
   I have a Bachelors in Mechanical Engineering and just completed my Masters in 
@@ -21,8 +23,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href='rajarathnambalakrishnan@gmail.com'>
   <img src="/images/gmail.png?raw=true" width="30" height="30">
   </a>
-
   <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="rajarathnam-balakrishnan-7b447b135"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135?trk=profile-badge'>Rajarathnam Balakrishnan</a></div>
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rajarathnam-balakrishnan-7b447b135"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135?trk=profile-badge'>Rajarathnam Balakrishnan</a></div>
 
 theme: jekyll-theme-minimal
