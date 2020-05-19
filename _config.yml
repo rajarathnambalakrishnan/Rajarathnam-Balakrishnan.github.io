@@ -1,6 +1,4 @@
-<p align='center'>
 title: Rajarathnam Balakrishnan # your name (or website title) here
-</p>
 logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Deep Learning and Machine Learning Enthusiast, Passionate in Autonomous Vehicles 
@@ -11,19 +9,22 @@ description: > # your text below (remove <br> elements if you don't need line br
   I have a Bachelors in Mechanical Engineering and just completed my Masters in 
   Industrial Engineering and Operations Research at UC Berkeley.
   <br>
-  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135'>
-  <img src="/images/linkedin.png?raw=true" width="30" height="30">
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rajarathnam-balakrishnan-7b447b135"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135?trk=profile-badge'>Rajarathnam Balakrishnan</a></div>
+  <br>
   </a>
   <a href='https://github.com/rajarathnambalakrishnan'>
   <img src="/images/github.png?raw=true" width="30" height="30">
   </a>
+  <br>
+  <img src="/images/gmail.png?raw=true" width="30" height="30">
   <a href='rajarathnam_b@berkeley.edu'>
-  <img src="/images/gmail.png?raw=true" width="30" height="30">
+  email
   </a>
+  <br>
+  <img src="/images/gmail.png?raw=true" width="30" height="30">
   <a href='rajarathnambalakrishnan@gmail.com'>
-  <img src="/images/gmail.png?raw=true" width="30" height="30">
+  email
   </a>
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rajarathnam-balakrishnan-7b447b135"><a class="LI-simple-link" href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135?trk=profile-badge'>Rajarathnam Balakrishnan</a></div>
-
+  
 theme: jekyll-theme-minimal
