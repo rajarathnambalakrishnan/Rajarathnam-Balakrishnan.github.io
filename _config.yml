@@ -1,0 +1,22 @@
+title: Rajarathnam Balakrishnan # your name (or website title) here
+logo: "/images/profile1.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Enthusiast, Startups passionate 
+  <br><br>
+  I'm Raja! Thank you for taking the time to know more about me.
+  <br>
+  I'm from India. 
+  <br>
+  <a href='https://www.linkedin.com/in/francesco-piccoli'>
+  <img src="/images/linkedin.png?raw=true" width="30" height="30">
+  </a>
+  <a href='https://github.com/Francesco-Piccoli'>
+  <img src="/images/github.png?raw=true" width="30" height="30">
+  </a>
+  <a href=''>
+  <img src="/images/instagram.png?raw=true" width="30" height="30">
+  </a>
+  <a href='https://www.instagram.com/francescopiccoli.fp/?hl=en'>
+  <img src="/images/instagram.png?raw=true" width="30" height="30">
+  </a>
+theme: jekyll-theme-minimal
