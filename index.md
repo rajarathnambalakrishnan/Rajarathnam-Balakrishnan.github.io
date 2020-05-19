@@ -7,7 +7,7 @@
 - [Portfolio](#portfolio)
 - [Motivations](#motivations)
 - [Awards](#awards)
-- <a href="/pdf/Francesco Piccoli Resume.pdf" download>My Resume</a>
+- 
 
 ## Education
 
@@ -17,9 +17,6 @@
 <br><br>
 <img style="float: left;" src="images/polima.png?raw=true" width="30" height="30"/> &nbsp;&nbsp; Jan 2019 - June 2019: **Polytechnic University of Madrid** <br>
 &nbsp;&nbsp;Exchange semester part of the EU/Young Talents Project
-<br><br>
-<img style="float: left;" src="images/polito.png?raw=true" width="30" height="30"/> &nbsp;&nbsp; Sep 2016 - July 2019: **Polytechnic University of Turin** <br>
-&nbsp;&nbsp; BSc in Aerospace Engineering,  [Young Talents Project](https://didattica.polito.it/percorso_giovani_talenti/descrizione)
 
 ## Experience
 
