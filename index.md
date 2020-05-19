@@ -16,7 +16,7 @@ BTech (Bachelor of Technology) in Mechanical Engineering
 ## Project Experience
 ---
 
-[Volvo Cars: Pedestrian Intention Prediction](/meng_volvo)
+[Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)
 ---
 <p align='center'>
     <img src="images/website.JPG?raw=true" width="300" height="200"/>
