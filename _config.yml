@@ -6,27 +6,30 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hello there! I'm Raja!
   <br>
   Thank you for taking the time to know more about me. I'm from Chennai, India. 
-  I have a Bachelors in Mechanical Engineering and just completed my Masters in 
-  Industrial Engineering and Operations Research at UC Berkeley.
+  I'm a recent UC Berkeley Grad.
   <br>
   </a>
-  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135'>
   <img src="/images/linkedin.png" width="30" height="30">
+  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135'>
+  LinkedIn Page
   </a>
   <br>
-  </a>
-  <a href='https://github.com/rajarathnambalakrishnan'>
+  <a>
   <img src="/images/github.png" width="30" height="30">
+  <a href='https://github.com/rajarathnambalakrishnan'>
+  GitHub Page
   </a>
   <br>
+  <a>
   <img src="/images/gmail.png" width="30" height="30">
   <a href='mailto: rajarathnam_b@berkeley.edu'>
-  email
+  rajarathnam_b@berkeley.edu
   </a>
   <br>
+  <a>
   <img src="/images/gmail.png" width="30" height="30">
   <a href='mailto: rajarathnambalakrishnan@gmail.com'>
-  email
+  rajarathnambalakrishnan@gmail.com
   </a>
   
 theme: jekyll-theme-minimal
