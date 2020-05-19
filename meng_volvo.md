@@ -1,27 +1,21 @@
 ## Pedestrian Intention Recognition
 <p align='left'>
-<img src="images/volvo.png?raw=true" width="110" height="80"/>
+<img src="images/volvo.png?raw=true" width="120" height="80"/>
 </p>
-<a href='https://www.github.com/mjpramirez/Volvo-DataX' target = "_blank">
+<a href='https://github.com/mjpramirez/Volvo-DataX' target = "_blank">
 GitHub Repo | 
 </a>
-<a href='https://www.matthew29tang.github.io/pid-model/#/' target = "_blank">
+<a href='https://matthew29tang.github.io/pid-model/#/' target = "_blank">
 Project Website | 
 </a>
-<a href='https://www.arxiv.org/abs/2005.07796' target = "_blank">
+<a href='https://arxiv.org/abs/2005.07796' target = "_blank">
 Research Paper
 </a>
-<br><br>
-<br><br>
-<br><br>
+Results:
 <p align='left'>
-<img src="images/modelA.gif?raw=true" width="160" height="90"/>
-<img src="images/modelC.gif?raw=true" width="160" height="90"/>
-<img src="images/modelC.gif?raw=true" width="160" height="90"/>
-<img src="images/modelC.gif?raw=true" width="160" height="90"/>
+<img src="images/modelA.gif?raw=true" width="150" height="100"/>
+<img src="images/modelC.gif?raw=true" width="150" height="100"/>
 </p>
-<p align='right'>
-<img src="images/modelC.gif?raw=true" width="160" height="90"/>
 </p>
 **Project description:** 
 <br>
