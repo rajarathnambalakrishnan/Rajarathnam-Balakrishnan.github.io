@@ -19,10 +19,10 @@ BTech (Bachelor of Technology) in Mechanical Engineering
 [Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)
 ---
 <p align='center'>
-    <img src="images/website.JPG?raw=true" width="300" height="200"/>
+    <img src="images/modelC.gif?raw=true" width="640" height="360"/>
 </p>
 
-[Historical analysis for live anomaly detection on Ripple's Blockchain](/ripple)
+[Image Recognition for Autonomous Driving](/meng_capstone.md)
 ---
 <p align='center'>
     <img src="images/ripple.png?raw=true" width="250" height="150"/>
