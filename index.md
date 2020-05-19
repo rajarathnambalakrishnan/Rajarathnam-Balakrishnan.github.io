@@ -1,21 +1,11 @@
 # Personal Webpage
 
-## What you'll find 
-
-- [Education](#education)
-- [Experience](#experience)
-- [Portfolio](#portfolio)
-- [Motivations](#motivations)
-- [Awards](#awards)
-- 
-
 ## Education
 
-
-<img style="float: left;" src="images/berkeley.png?raw=true" width="30" height="30"/> &nbsp;&nbsp; Aug 2019 - May 2020: **University of California Berkeley** <br>
-&nbsp;&nbsp; Master of Engineering in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/master-of-engineering-program/) (Data Analytics and Machine Learning track) 
+Aug 2019 - May 2020: **University of California Berkeley** <br>
+&nbsp;&nbsp; Master of Engineering in Industrial Engineering and Operations Research (Data Analytics and Machine Learning track) 
 <br><br>
-<img style="float: left;" src="images/polima.png?raw=true" width="30" height="30"/> &nbsp;&nbsp; Jan 2019 - June 2019: **Polytechnic University of Madrid** <br>
+Jan 2019 - June 2019: **Polytechnic University of Madrid** <br>
 &nbsp;&nbsp;Exchange semester part of the EU/Young Talents Project
 
 ## Experience
