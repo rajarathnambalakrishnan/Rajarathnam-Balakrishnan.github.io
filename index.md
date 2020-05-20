@@ -2,6 +2,7 @@
 
 ## Education
 
+<img style="float: left;" src="images/berkeley.png?raw=true" width="30" height="30"/> &nbsp;&nbsp;
 **University of California Berkeley** (Aug 2019 - May 2020)
 <br>
 MEng (Master of Engineering) in Industrial Engineering and Operations Research
@@ -14,22 +15,21 @@ BTech (Bachelor of Technology) in Mechanical Engineering
 <br><br>
 
 ## Project Experience
----
 
 [Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)
----
+
 <p align='center'>
     <img src="images/modelC.gif?raw=true" width="640" height="360"/>
 </p>
-
-[Image Recognition for Autonomous Driving](/meng_capstone.md)
 ---
+[Image Recognition for Autonomous Driving](/meng_capstone.md)
+
 <p align='center'>
     <img src="images/ripple.png?raw=true" width="250" height="150"/>
 </p>
-
-[Volvo Cars: Pedestrian Intention Recognition](/volvo)
 ---
+[Start-up Success Prediction](/meng_startup.md)
+
 <p align='center'>
     <img src="images/modelC1.gif?raw=true" width="300" height="250"/>
 </p>

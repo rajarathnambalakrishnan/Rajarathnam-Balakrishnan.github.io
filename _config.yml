@@ -11,11 +11,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="/pdf/Rajarathnam Balakrishnan Resume.pdf" download>My Resume </a>
   <br>
-  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135'>
+  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135' target = '_blank'>
   LinkedIn Page
   </a>
   <br>
-  <a href='https://github.com/rajarathnambalakrishnan'>
+  <a href='https://github.com/rajarathnambalakrishnan' target = '_blank'>
   GitHub Page
   </a>
   <br>
