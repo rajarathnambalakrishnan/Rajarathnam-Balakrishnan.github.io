@@ -22,21 +22,21 @@ BTech (Bachelor of Technology) in Mechanical Engineering
 ### [Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)
 ---
 
-<p align='center'>
+<p align='left'>
     <img src="images/modelC.gif?raw=true" width="400" height="220"/>
 </p>
 
 ### [Image Recognition for Autonomous Driving](/meng_capstone.md)
 ---
 
-<p align='center'>
+<p align='left'>
     <img src="images/ripple.png?raw=true" width="400" height="220"/>
 </p>
 
 ### [Start-up Success Prediction](/meng_startup.md)
 ---
 
-<p align='center'>
+<p align='left'>
     <img src="images/modelC1.gif?raw=true" width="400" height="220"/>
 </p>
 
