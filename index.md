@@ -10,10 +10,10 @@
 <br>
 &#8;  Data Analytics and Machine Learning Track     
 <br>
-<img style="float: left;" src="images/berkeley.png?raw=true" width="50" height="50"/>&#8;
+<img style="float: left;" src="images/srm.png?raw=true" width="50" height="50"/>&#8;
 **SRM Institute of Science and Technology** (2013 - 2017)
 <br>
-BTech (Bachelor of Technology) in Mechanical Engineering
+&#8;  BTech (Bachelor of Technology) in Mechanical Engineering
 
 
 ## Project Experience
