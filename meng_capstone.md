@@ -10,7 +10,7 @@ Github repo
 <p align='left'>
 <img src="images/capstone1.png?raw=true" width="200" height="200"/>
 <img src="images/capstone2.png?raw=true" width="200" height="200"/>
-<img src="images/capstone2.png?raw=true" width="200" height="200"/>
+<img src="images/capstone3.png?raw=true" width="200" height="200"/>
 </p>
 <br><br>
 
