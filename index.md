@@ -14,30 +14,36 @@
 **SRM Institute of Science and Technology** (2013 - 2017)
 <br>
 BTech (Bachelor of Technology) in Mechanical Engineering
----
 <br><br>
 
-
+---
 
 ## Project Experience
 
 ### [Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)
 
+---
+
 <p align='center'>
-    <img src="images/modelC.gif?raw=true" width="640" height="360"/>
+    <img src="images/modelC.gif?raw=true" width="400" height="220"/>
 </p>
 
 ### [Image Recognition for Autonomous Driving](/meng_capstone.md)
 
+---
+
 <p align='center'>
-    <img src="images/ripple.png?raw=true" width="250" height="150"/>
+    <img src="images/ripple.png?raw=true" width="400" height="220"/>
 </p>
 
 ### [Start-up Success Prediction](/meng_startup.md)
 
+---
+
 <p align='center'>
-    <img src="images/modelC1.gif?raw=true" width="300" height="250"/>
+    <img src="images/modelC1.gif?raw=true" width="400" height="220"/>
 </p>
+
 ---
 
 ## My Interests
