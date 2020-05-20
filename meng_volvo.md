@@ -16,9 +16,8 @@ Research Paper
 <br>
 **Results:**
 <p align='left'>
-<img src="images/modelA.gif?raw=true" width="200" height="100"/>
-<img src="images/modelC.gif?raw=true" width="200" height="100"/>
-</p>
+<img src="images/modelA.gif?raw=true" width="250" height="180"/>
+<img src="images/modelC.gif?raw=true" width="250" height="180"/>
 </p>
 **Project description:** 
 <br>
