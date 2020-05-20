@@ -14,7 +14,7 @@
 **SRM Institute of Science and Technology** (2013 - 2017)
 <br>
 &#8;  BTech (Bachelor of Technology) in Mechanical Engineering
-
+<br><br>
 
 ## Project Experience
 ---
