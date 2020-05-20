@@ -20,7 +20,7 @@ Research Paper at arXiv
 </p>
 
 
-### My role in the project:
+### My contribution:
 
 - sfsfs
 - sdsffsf
