@@ -35,7 +35,7 @@
 ### [Start-up Success Prediction](/meng_startup.md)
 
 <p align='left'>
-    <img src="images/modelC1.gif?raw=true" width="400" height="220"/>
+    <img src="images/startup.png?raw=true" width="400" height="220"/>
 </p>
 
 ## My Interests
