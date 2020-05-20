@@ -15,7 +15,7 @@ Github repo
 <br><br>
 
 ### Project description:
-<br>
+
 <p style="text-align: justify;">
 Vision based autonomous driving assistance systems have been highly successful due to Convolutional Neural Network (CNN) based Deep Learning approaches. The main objective of this project was to understand the state of the art field of Deep Learning in Image processing tasks for autonomous driving sytems through a hands-on project. In essence, our team utilized this opportunity to learn, understand, build and train two Object detection models inspired from existing works in this field. 
 <br><br>
