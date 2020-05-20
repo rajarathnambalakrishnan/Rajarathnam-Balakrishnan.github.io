@@ -5,16 +5,15 @@
 <img style="float: left;" src="images/berkeley.png?raw=true" width="30" height="30"/> &nbsp;&nbsp;
 **University of California Berkeley** (Aug 2019 - May 2020)
 <br>
-&nbsp;&nbsp;MEng (Master of Engineering) in Industrial Engineering and Operations 
+&nbsp;&nbsp;MEng (Master of Engineering) in 
 <br>
-&nbsp;&nbsp;Research
+&nbsp;&nbsp;Industrial Engineering and Operations Research
 <br>
 &nbsp;&nbsp;Data Analytics and Machine Learning track
 <br><br>
 **SRM Institute of Science and Technology** (2013 - 2017)
 <br>
 BTech (Bachelor of Technology) in Mechanical Engineering
-<br><br>
 
 ---
 
