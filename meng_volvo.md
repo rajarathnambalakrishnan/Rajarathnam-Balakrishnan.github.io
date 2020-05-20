@@ -20,9 +20,7 @@ Research Paper at arXiv
 <img src="images/modelC.gif?raw=true" width="220" height="150"/>
 </p>
 
-**My work for the project:** 
-<br>
-<br>
+**My role in the project:** 
 - 
 -
 -
