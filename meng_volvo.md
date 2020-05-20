@@ -14,13 +14,13 @@ Research Paper at arXiv
 </a>
 <br>
 <br>
-**Results:**
+### Results:
 <p align='left'>
 <img src="images/modelA.gif?raw=true" width="220" height="150"/>
 <img src="images/modelC.gif?raw=true" width="220" height="150"/>
 </p>
 <br>
-**My role in the project:** 
+### My role in the project:
 - sfsfs
 - sdsffsf
 - sdffs
@@ -28,7 +28,7 @@ Research Paper at arXiv
 <br>
 <br>
 <br>
-**Brief Project description:** 
+### Brief Project description:
 <br>
 <br>
 Collaborative research project between Volvo Cars, and student teams from UC Berkeley and Chalmers University.
