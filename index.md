@@ -8,7 +8,7 @@
 &#8; MEng (Master of Engineering) in 
 <br>
 &#8; Industrial Engineering and Operations Research
-<br>&#8; Data Analytics and Machine Learning Track
+<br>&#8;         Data Analytics and Machine Learning Track
 <br><br>
 **SRM Institute of Science and Technology** (2013 - 2017)
 <br>
