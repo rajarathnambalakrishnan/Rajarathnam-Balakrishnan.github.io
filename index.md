@@ -29,7 +29,7 @@
 ### [Image Recognition for Autonomous Driving](/meng_capstone.md)
 
 <p align='left'>
-    <img src="images/ripple.png?raw=true" width="400" height="220"/>
+    <img src="images/capstone1.png?raw=true" width="400" height="220"/>
 </p>
 
 ### [Start-up Success Prediction](/meng_startup.md)
