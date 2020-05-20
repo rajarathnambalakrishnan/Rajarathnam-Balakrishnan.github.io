@@ -2,14 +2,14 @@
 
 ## Education
 
-<img style="float: left;" src="images/berkeley.png?raw=true" width="50" height="50"/> &#7;
+<img style="float: left;" src="images/berkeley.png?raw=true" width="50" height="50"/>&#8;
 **University of California Berkeley** (Aug 2019 - May 2020)
 <br>
-&#7;MEng (Master of Engineering) in 
+&#8;MEng (Master of Engineering) in 
 <br>
-&#7;Industrial Engineering and Operations Research
+&#8;Industrial Engineering and Operations Research
 <br>
-&#7;Data Analytics and Machine Learning track
+&#8;Data Analytics and Machine Learning track
 <br><br>
 **SRM Institute of Science and Technology** (2013 - 2017)
 <br>
