@@ -28,7 +28,7 @@ Research Paper at arXiv
 - sfd
 
 ### Brief Project description:
-
+<p style="text-align: justify;">
 Collaborative research project between Volvo Cars, and student teams from UC Berkeley and Chalmers University.
 
 The research project was aimed at predicting the intention of a pedestrian to cross or not cross the road. This project was a successful attempt to emulate the behaviour of a human driver to guess the intention of fellow road users such as pedestrians. Our team based the approach on a research paper that had some progress in this line of work. After replicating the paper, our teams decided on experimenting additional approaches and eventually arrived at Fusion based Intention Prediction Networks.
@@ -39,4 +39,4 @@ The challenge here was to predict the intention atleast 0.5 secs before the inte
 
 Our teams took this basic framework and experimented with alternate types for each component of the model such as SORT, DeepSORT, Pose-Estimation based detection and tracking. Similarly, alternate types for classifer such as Recurrent Neural Networks, Random Forest and DenseNets. Finally we tried feature engineering for the DenseNet classifier which initially used only the cropped pedestrian images as features. In this feature engineering we applied skeletons for the pedestrian using Pose-Estimator and retrained the classifier resulting in a improved AP score of 0.89 achieving more that the research paper that we started with. Thus using this new classifier and additional feature engineering we arrived at a better model for intent prediction that predicts 0.5 secs before the intended action occurs.
 
-For clear schematics diagrams, codes, demos and the Research paper and explanations please checkout the different URLs at the top of the page.
+For clear schematics diagrams, codes, demos and the Research paper and explanations please checkout the different URLs at the top of the page. </p>
