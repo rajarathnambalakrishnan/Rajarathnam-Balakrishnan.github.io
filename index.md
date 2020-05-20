@@ -6,10 +6,9 @@
 <img style="float: left;" src="images/berkeley.png?raw=true" width="50" height="50"/>&#8;
 **University of California Berkeley** (Aug 2019 - May 2020)
 <br>
-&#8; MEng (Master of Engineering) in 
+&#8; MEng (Master of Engineering) in IEOR
 <br>
-&#8; Industrial Engineering and Operations Research
-<br>&#8;         Data Analytics and Machine Learning Track
+&#8; Data Analytics and Machine Learning Track     
 <br><br>
 **SRM Institute of Science and Technology** (2013 - 2017)
 <br>
