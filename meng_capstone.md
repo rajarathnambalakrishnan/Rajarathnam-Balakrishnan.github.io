@@ -12,7 +12,6 @@ Github repo
 <img src="images/capstone2.png?raw=true" width="150" height="150"/>
 <img src="images/capstone3.png?raw=true" width="150" height="150"/>
 </p>
-<br><br>
 
 ### Project description:
 
