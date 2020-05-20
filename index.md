@@ -9,7 +9,7 @@
 <br>
 &#8; Industrial Engineering and Operations Research
 <br>
-&#8; Data Analytics and Machine Learning track
+         Data Analytics and Machine Learning track
 <br><br>
 **SRM Institute of Science and Technology** (2013 - 2017)
 <br>
