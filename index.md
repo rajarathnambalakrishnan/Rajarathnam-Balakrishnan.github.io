@@ -1,8 +1,8 @@
 # Personal Webpage
 
-## [About Me](/about.md)
+## About Me
 ---
-I recieved my.....
+[I recieved my.....](/about.md)
 
 ## Education
 ---
