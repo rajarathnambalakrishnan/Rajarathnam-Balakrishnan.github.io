@@ -64,10 +64,12 @@ The accuracy for those models are shown in the following table:
 From the table we can see that the LDA and CART model had better performance than the baseline model, with accuracy 0.652 and 0.664 accordingly. Based on the accuracy, we decided to choose CART as our final model. 
 <br></p>
 
-**2. Major Liquidity Event Prediction:** <p style="text-align: justify;">
+**2. Major Liquidity Event Prediction:** 
+<p style="text-align: justify;">
 The success criteria was encoded as 1 for IPO and M&A and 0 for closed startups. Startups which are still operating under VC funding (neither IPOed or M&A nor closed) were left out to improve the accuracy. An assumption was made that a successful startup returns 5x the investment and a failed one loses 1x the investment. Assuming that there is limited money available to invest and each startup gets the same amount of investment, a function was defined to measure the profit to investment ratio:
 <br><br></p>
 
+**Formula:**
 ```
 ProfitX = ( 5 * (Number of true positives) - 1 * (number of false positives) ) / (Number of total predicted positives)
 ```
@@ -96,7 +98,8 @@ Not only are we interested in the success of startups but we want to know what l
 | Berkeley | Analytics    | MA| Amazon|
 | MIT  | Mobile | TX| LinkedIn|
 
-> These features are pretty intuitive. It is notable that we have arrived at a data-driven proof that going to Berkeley helps your startup. 
+> **These features are pretty intuitive. It is notable that we have arrived at a data-driven proof that going to Berkeley helps your startup.**
+
 
 
 
