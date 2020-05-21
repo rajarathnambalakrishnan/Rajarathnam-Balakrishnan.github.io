@@ -98,10 +98,8 @@ Not only are we interested in the success of startups but we want to know what l
 
 > **These features are pretty intuitive. It is notable that we have arrived at a data-driven proof that going to Berkeley helps your startup.**
 
-
-
-
-
-
-
-
+### Conclusion:
+<p style="text-align: justify;">The Series A prediction gave an accuracy of 66.4% which is a slight improvement from the baseline prediction. The poor performance of this metric could be due to the risky assumption that features such as number of offices or affiliations with company or number of relationships are representative of the startup before Series A. The liquidity event prediction performed much better than the baseline, yielding a 38% improvement on the return of investment. Further, going by the rule of thumb that only 1 out of 10 funded startups yield big profits, the average return on investment for all startups for VCs is generally 2.5-3x.  We were able to achieve a similar profit range, thereby successfully building the intuition of experienced venture capitalists into our machine.
+<br><br>
+The key limitation of this project has been not having data to distinguish the features of the startup over various funding rounds and over time. The models could be further improved by addressing this key limitation. Other ways of improvement include sampling more failures, using more recent data, addressing the success criteria at each stage of the startup and running more models. Lastly, including the valuation of the startup at each funding stage to get an estimate of the profit earned by venture capitalists could serve as a more precise success metric of a startup from the investors’ perspective. 
+<br></p>
