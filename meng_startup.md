@@ -8,10 +8,12 @@ Hundreds of startups are born everyday, out of which only few survive. The abili
 Investors' decision of whether or not to invest in a startup is based on the profit they gain from the investment. Currently investors largely depend on their intuition and experience to pick the right startup from the numerous startups being pitched to them everyday. Our objective for this project is to build this intuition into a machine using a data driven approach. We believe that this can become a useful tool for new investors to make right choices and for experienced ones to use as a filtering tool.
 <br><br>
 Before we define success for our project, we need to understand the typical funding process. It is shown below:
-<br><br>
+<br><br></p>
+
 <p align='center'>
     <img src="images/startup2.png?raw=true" width="600" height="300"/>
 </p>
+
 <p style="text-align: justify;">
 <br><br>
 With this in mind, we came up with two measures of success which are described below:
