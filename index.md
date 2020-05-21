@@ -20,19 +20,19 @@
 ---
 
 
-### [Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)
+### [Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)(*click to know more...*)
 
 <p align='left'>
     <img src="images/modelC.gif?raw=true" width="400" height="220"/>
 </p>
 
-### [Image Recognition for Autonomous Driving](/meng_capstone.md)
+### [Image Recognition for Autonomous Driving](/meng_capstone.md)(*click to know more...*)
 
 <p align='left'>
     <img src="images/capstone1.png?raw=true" width="400" height="220"/>
 </p>
 
-### [Start-up Success Prediction](/meng_startup.md)
+### [Start-up Success Prediction](/meng_startup.md)(*click to know more...*)
 
 <p align='left'>
     <img src="images/startup.png?raw=true" width="400" height="220"/>
