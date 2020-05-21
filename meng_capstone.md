@@ -28,13 +28,13 @@ Github repo
 Vision based autonomous driving assistance systems have been highly successful due to Convolutional Neural Network (CNN) based Deep Learning approaches. The main objective of this project was to understand the state of the art field of Deep Learning in Image processing tasks for autonomous driving sytems through a hands-on project. In essence, our team utilized this opportunity to learn, understand, build and train two Object detection models inspired from existing works in this field. 
 <br><br>
 </p>
-
-### DenseNet based Object Detector
+**DenseNet based Object Detector**
 <p align='center'>
-<img src="images/detector1.png?raw=true" width="600" height="300"/>
+<img src="images/detector1.png?raw=true" width="600" height="280"/>
+<br><br></p>
+**ResNet based Object Detector**
+<p align='center'>
+<img src="images/detector2.png?raw=true" width="600" height="280"/>
 <br><br></p>
 
-### ResNet based Object Detector
-<p align='center'>
-<img src="images/detector2.png?raw=true" width="600" height="300"/>
-<br><br></p>
+
