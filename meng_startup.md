@@ -24,7 +24,7 @@ With this in mind, we came up with two measures of success which are described b
 ### Dataset:
 <p style="text-align: justify;">
 We obtained the raw data for this project from Kaggle. Specifically, the datasets were provided from Crunchbase on Kaggle. The datasets were part of the 2013 Snapshot by Crunchbase about the startup world involving all the necessary information across 11 CSV files. These CSV files had information about acquisitions, IPOs, funding rounds, investors, personnels, milestones, office locations, people associated with these startups, funds. The total number of rows when all the CSV files were considered, amounted to 0.5 Million rows of data. On a thorough note, the different CSV files are described as follows:
-<br><br></p>
+<br></p>
 
 * **acquisitions.csv** file contains data about startups that have been acquired
 * **IPO.csv** contains information about startups that IPOed
@@ -35,6 +35,10 @@ We obtained the raw data for this project from Kaggle. Specifically, the dataset
 * **people.csv** and **degrees.csv** contains data regarding education, personal information for all the personnel related to the startups from CEOs to staff
 * **relationships.csv** contains data about different connections of personnel and startups
 * **objects.csv** acts as a master table which contains some additional information about all the startups that were mentioned in the remaining 10 csvs
+
+<p style="text-align: justify;">
+The most challenging part of the data preparation was the many to many and one to many relationships across the tables. Pivot, groupby and merge from Pandas package was extensively used, converting necessary details to counts while maintaining unique IDs for each startup in order to create a single final table. Filters were further applied to narrow down the relevant parts of the excess information for effective analysis. For the Series-A criteria in our problem statement, those startups and their related information from all the 11 tables were selected based on the availability of their Series A funding information. Similarly, for major liquidity events (IPO, M&A) based criteria, those startups and their related information from the 11 tables were selected only if they had information about IPO or acquisition. Then the information for the two separate criterias were further cleaned based on other features’ availability. Any features that had missing values resulted in complete removal of the rows since these cannot be imputed. Finally the information according to the two separate criteria were filtered for USA based startups. 
+<br><br></p>
 
 
 
