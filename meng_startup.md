@@ -42,6 +42,29 @@ We obtained the raw data for this project from Kaggle. Specifically, the dataset
 The most challenging part of the data preparation was the many to many and one to many relationships across the tables. Pivot, groupby and merge from Pandas package was extensively used, converting necessary details to counts while maintaining unique IDs for each startup in order to create a single final table. Filters were further applied to narrow down the relevant parts of the excess information for effective analysis. For the Series-A criteria in our problem statement, those startups and their related information from all the 11 tables were selected based on the availability of their Series A funding information. Similarly, for major liquidity events (IPO, M&A) based criteria, those startups and their related information from the 11 tables were selected only if they had information about IPO or acquisition. Then the information for the two separate criterias were further cleaned based on other features’ availability. Any features that had missing values resulted in complete removal of the rows since these cannot be imputed. Finally the information according to the two separate criteria were filtered for USA based startups. 
 <br><br></p>
 
+### Analysis:
+<p style="text-align: justify;">
+
+**Series A Prediction:** 
+For our models, we define the company as a success when it moves to series A funding or above from seed funding. 
+<br><br>
+After exploring our dataset, we found out that most of the startups did not make it to Series A funding. Thus, for our baseline model, we decided to predict all startups fail to reach Series-A. We tried Four different machine learning models, which are Logistic, LDA, Vanilla bagging, and CART model. The accuracy for those models are shown in the following table:
+<br><br></p>
+
+| Model              | Accuracy | TPR   | 
+| -------------------|:--------:| -----:|
+| **Baseline**       | 0.634    | 0     |
+| **Logistic**       | 0.634    | 0     |
+| **LDA**            | 0.634    | 0     |
+| **Vanilla bagging**| 0.634    | 0     |
+| **CART**           | 0.634    | 0     |
+
+<p style="text-align: justify;">
+From the table we can see that the LDA and CART model had better performance than the baseline model, with accuracy 0.652 and 0.664 accordingly. Based on the accuracy, we decided to choose CART as our final model. 
+<br><br></p>
+
+
+
 
 
 
