@@ -44,8 +44,7 @@ The most challenging part of the data preparation was the many to many and one t
 
 ### Analysis:
 
-**Series A Prediction:** 
-<p style="text-align: justify;">
+**1. Series A Prediction:** <p style="text-align: justify;">
 For our models, we define the company as a success when it moves to series A funding or above from seed funding. 
 <br><br>
 After exploring our dataset, we found out that most of the startups did not make it to Series A funding. Thus, for our baseline model, we decided to predict all startups fail to reach Series-A. We tried Four different machine learning models, which are Logistic, LDA, Vanilla bagging, and CART model. The accuracy for those models are shown in the following table:
@@ -54,14 +53,49 @@ After exploring our dataset, we found out that most of the startups did not make
 | Model              | Accuracy | TPR   | 
 | --------------|:--------:| -----:|
 | **Baseline**       | 0.634    | 0     |
-| **Logistic**       | 0.634    | 0.65  |
-| **LDA**            | 0.634    | 0.25  |
-| **Vanilla bagging**| 0.634    | 0.42  |
-| **CART**           | 0.634    | 0.27  |
+| **Logistic**       | 0.622    | 0.65  |
+| **LDA**            | 0.652    | 0.25  |
+| **Vanilla bagging**| 0.618    | 0.42  |
+| **CART**           | 0.664    | 0.27  |
 
 <p style="text-align: justify;">
 From the table we can see that the LDA and CART model had better performance than the baseline model, with accuracy 0.652 and 0.664 accordingly. Based on the accuracy, we decided to choose CART as our final model. 
 <br><br></p>
+
+**2. Major Liquidity Event Prediction:** <p style="text-align: justify;">
+The success criteria was encoded as 1 for IPO and M&A and 0 for closed startups. Startups which are still operating under VC funding (neither IPOed or M&A nor closed) were left out to improve the accuracy. An assumption was made that a successful startup returns 5x the investment and a failed one loses 1x the investment. Assuming that there is limited money available to invest and each startup gets the same amount of investment, a function was defined to measure the profit to investment ratio:
+<br><br></p>
+
+```
+ProfitX = ( 5 * (Number of true positives) - 1 * (number of false positives) ) / (Number of total predicted positives)
+```
+<p style="text-align: justify;">
+The comparison of performance of different models are given below:
+<br></p>
+
+| Model              | Accuracy | ProfitX  | 
+| --------------|:--------:| -----:|
+| **Baseline**       | 0.55    | 2.31     |
+| **Logistic**       | 0.68    | **3.18**  |
+| **Random Forest**  | 0.64    | 2.91  |
+| **XG Boost**| 0.67    | 3.19  |
+
+<p style="text-align: justify;">
+The baseline model was a naive prediction, claiming that all startups must be funded since the majority (55%) of startups in the list were successful.  
+<br><br>
+It was found that Logistic Regression and XGBoost Classifier performed the best. Random forest tended to overfit the training data. Although XGB produced a slightly better ProfitX, Logistic Regression has almost equal training and test accuracy, showing that it is a robust model. It is also highly interpretable, so that is an additional bonus. Also, its ProfitX competes closely with XGB. Hence, we choose the Logistic Regression as our preferred model.
+<br><br>
+Not only are we interested in the success of startups but we want to know what leads to this success. When we examined the feature importances of the Logistic Regression model, we found that the top features under each category of features are:
+<br><br></p>
+
+| Schools | Field | State in USA |Previous Experience|
+| --------------|:--------:| --------:| ---------:|
+| **Stanford** | Software | CA | Google |
+| **Berkeley** | Analytics    | MA| Amazon|
+| **MIT**  | Mobile | TX| LinkedIn|
+
+
+
 
 
 
