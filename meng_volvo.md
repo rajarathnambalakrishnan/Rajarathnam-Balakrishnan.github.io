@@ -1,4 +1,5 @@
-## Pedestrian Intention Recognition
+## Pedestrian Intention Prediction
+*(12 Member Team)*
 
 <p align='left'>
 <img src="images/volvo.png?raw=true" width="120" height="80"/>
