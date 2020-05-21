@@ -45,8 +45,7 @@ The most challenging part of the data preparation was the many to many and one t
 ### Analysis:
 
 **1. Series A Prediction:** 
-<p style="text-align: justify;">
-For our models, we define the company as a success when it moves to series A funding or above from seed funding. 
+<p style="text-align: justify;">For our models, we define the company as a success when it moves to series A funding or above from seed funding.
 <br><br>
 After exploring our dataset, we found out that most of the startups did not make it to Series A funding. Thus, for our baseline model, we decided to predict all startups fail to reach Series-A. We tried Four different machine learning models, which are Logistic, LDA, Vanilla bagging, and CART model. 
 <br><br></p>
@@ -65,13 +64,12 @@ From the table we can see that the LDA and CART model had better performance tha
 <br></p>
 
 **2. Major Liquidity Event Prediction:** 
-<p style="text-align: justify;">
-The success criteria was encoded as 1 for IPO and M&A and 0 for closed startups. Startups which are still operating under VC funding (neither IPOed or M&A nor closed) were left out to improve the accuracy. An assumption was made that a successful startup returns 5x the investment and a failed one loses 1x the investment. Assuming that there is limited money available to invest and each startup gets the same amount of investment, a function was defined to measure the profit to investment ratio:
-<br><br></p>
+<p style="text-align: justify;">The success criteria was encoded as 1 for IPO and M&A and 0 for closed startups. Startups which are still operating under VC funding (neither IPOed or M&A nor closed) were left out to improve the accuracy. An assumption was made that a successful startup returns 5x the investment and a failed one loses 1x the investment. Assuming that there is limited money available to invest and each startup gets the same amount of investment, a function was defined to measure the profit to investment ratio:
+<br></p>
 
 **Formula:**
 ```
-ProfitX = ( 5 * (Number of true positives) - 1 * (number of false positives) ) / (Number of total predicted positives)
+ProfitX = (5 * (Number of true positives) - 1 * (number of false positives) ) / (Number of total predicted positives)
 ```
 <p style="text-align: justify;">
 The comparison of performance of different models are given below:
