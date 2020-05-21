@@ -15,10 +15,12 @@ Github repo
 
 ### My contribution:
 
-- sfsfs
-- sdsffsf
-- sdffs
-- sfd
+- Selected as Lead by team members and advisor based on previous coursework on machine learning
+- Advised, planned and supervised project plan in collaboration with Project Manager and Advisor
+- Curated and referred learning resources for basics and programming for deep learning with focus on CNNs
+- Organized weekly team meetings and clarified doubts and brainstormed improvements with team members
+- Reviewed research papers and collaborated with team members to design a novel object detection architecture
+- Refined and coded scripts for classifier and detection layer implementation in TensorFlow
 
 ### Brief Project Description:
 
@@ -27,8 +29,12 @@ Vision based autonomous driving assistance systems have been highly successful d
 <br><br>
 </p>
 
-### Project Brief
-<p align='left'>
-<img src="images/brief.png?raw=true" width="800" height="1000"/>
-</p>
+### DenseNet based Object Detector
+<p align='center'>
+<img src="images/detector1.png?raw=true" width="600" height="300"/>
+<br><br></p>
 
+### ResNet based Object Detector
+<p align='center'>
+<img src="images/detector2.png?raw=true" width="600" height="300"/>
+<br><br></p>
