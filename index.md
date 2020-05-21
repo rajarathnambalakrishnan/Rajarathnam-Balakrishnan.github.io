@@ -27,7 +27,7 @@
 
 <p align='left'>
     <img src="images/modelC.gif?raw=true" width="400" height="220"/>
-</p>
+</p> 
 
 ### [Image Recognition for Autonomous Driving](/meng_capstone.md)
 
