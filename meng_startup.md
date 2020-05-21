@@ -1,13 +1,6 @@
 ## Start-up Success Prediction
 *(4 member team)*
 
-### My contribution:
-
-- sfsfs
-- sdsffsf
-- sdffs
-- sfd
-
 ### Problem Statement:
 <p style="text-align: justify;">
 Hundreds of startups are born everyday, out of which only few survive. The ability to predict whether or not a startup succeeds is thus of important value to many stakeholders such as the founders, investors and the public. However the definition of success varies largely between these stakeholders. For instance, for a startup founder, success could mean the founding vision being fulfilled, the amount of personal happiness or the amount of power they retain in the company. For customers, success would mean the ability of a startup to deliver its promises. While most of these measures complement each other, some of them could be conflicting such as the ability of the founder to retain power vs. revenue generated for investors. Moreover, not all these definitions of success can be quantified. Hence we narrowed our stakeholder as the investors and decided to predict whether a startup succeeds from an investor’s perspective. 
