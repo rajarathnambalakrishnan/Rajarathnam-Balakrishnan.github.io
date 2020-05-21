@@ -12,6 +12,7 @@ Before we define success for our project, we need to understand the typical fund
 <p align='center'>
     <img src="images/startup2.png?raw=true" width="600" height="300"/>
 </p>
+<p style="text-align: justify;">
 <br><br>
 With this in mind, we came up with two measures of success which are described below:
 <br><br>
@@ -34,6 +35,7 @@ We obtained the raw data for this project from Kaggle. Specifically, the dataset
 * **people.csv** and **degrees.csv** contains data regarding education, personal information for all the personnel related to the startups from CEOs to staff
 * **relationships.csv** contains data about different connections of personnel and startups
 * **objects.csv** acts as a master table which contains some additional information about all the startups that were mentioned in the remaining 10 csvs
+
 
 
 
