@@ -1,9 +1,6 @@
 ## Pedestrians and Vehicles Recognition for Autonomous Driving
-Master of Engineering Capstone Project
-
-<a href='https://github.com/rajarathnambalakrishnan/MEng-2020-Capstone-AutoDrive-Vision'>
-Github repo
-</a>
+*(Master of Engineering Capstone Project | 4 Member Team)*
+<a href='https://github.com/rajarathnambalakrishnan/MEng-2020-Capstone-AutoDrive-Vision' target="_blank">Github repo</a>
 <br><br>
 ### Results:
 <p align='left'>
