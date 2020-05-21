@@ -19,20 +19,19 @@
 ## Project Experience
 ---
 
-
-### <u>[Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)</u>
+### [Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)
 
 <p align='left'>
     <img src="images/modelC.gif?raw=true" width="400" height="220"/>
 </p>
 
-### <u>[Image Recognition for Autonomous Driving](/meng_capstone.md)</u>
+### [Image Recognition for Autonomous Driving](/meng_capstone.md)
 
 <p align='left'>
     <img src="images/capstone1.png?raw=true" width="400" height="220"/>
 </p>
 
-### <u>[Start-up Success Prediction](/meng_startup.md)</u>
+### [Start-up Success Prediction](/meng_startup.md)
 
 <p align='left'>
     <img src="images/startup.png?raw=true" width="400" height="220"/>
