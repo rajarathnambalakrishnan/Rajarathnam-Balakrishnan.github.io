@@ -1,5 +1,7 @@
 # Personal Webpage
 
+## [About Me](/about.md)
+
 ## Education
 ---
 
@@ -36,11 +38,6 @@
 <p align='left'>
     <img src="images/startup.png?raw=true" width="400" height="220"/>
 </p>
-
-## Journey
----
-
-My interests before completing the Masters were purely on Data Science and particularly in Machine Learning. During my masters at UC Berkeley, I had the opportunity to work on a Capstone project for the MEng Degree. This faculty led project was concerned with building an Image Recognition alogorithm. The motive for this project was purely to understand the upcoming and revolutionizing field of Deep Learning and more importantly one of it's sub-field Convolutional Neural Network based approaches. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
