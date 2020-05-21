@@ -19,14 +19,6 @@ Research Paper at arXiv
 <img src="images/modelC.gif?raw=true" width="220" height="150"/>
 </p>
 
-
-### My contribution:
-
-- sfsfs
-- sdsffsf
-- sdffs
-- sfd
-
 ### Brief Project description:
 <p style="text-align: justify;">
 Collaborative research project between Volvo Cars, and student teams from UC Berkeley and Chalmers University.
