@@ -1,7 +1,8 @@
 ## Pedestrians and Vehicles Recognition for Autonomous Driving
 *(Master of Engineering Capstone Project | 4 Member Team)*
+<br>
 <a href='https://github.com/rajarathnambalakrishnan/MEng-2020-Capstone-AutoDrive-Vision' target="_blank">Github repo</a>
-<br><br>
+
 ### Results:
 <p align='left'>
 <img src="images/capstone1.png?raw=true" width="150" height="150"/>
@@ -33,7 +34,7 @@ Vision based autonomous driving assistance systems have been highly successful d
 <img src="images/detector2.png?raw=true" width="600" height="240"/>
 <br></p>
 
-### Network Training Plan:
+**Network Training Plan**
 <p align='center'>
 <img src="images/capstone4.png?raw=true" width="600" height="210"/>
 <br><br></p>
