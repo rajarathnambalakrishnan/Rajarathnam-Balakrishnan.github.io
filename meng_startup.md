@@ -48,7 +48,7 @@ The most challenging part of the data preparation was the many to many and one t
 <p style="text-align: justify;">For our models, we define the company as a success when it moves to series A funding or above from seed funding.
 <br><br>
 After exploring our dataset, we found out that most of the startups did not make it to Series A funding. Thus, for our baseline model, we decided to predict all startups fail to reach Series-A. We tried Four different machine learning models, which are Logistic, LDA, Vanilla bagging, and CART model. 
-<br><br></p>
+<br></p>
 The accuracy for those models are shown in the following table:
 
 | Model              | Accuracy | TPR   | 
