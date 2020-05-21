@@ -24,15 +24,15 @@ With this in mind, we came up with two measures of success which are described b
 <p style="text-align: justify;">
 We obtained the raw data for this project from Kaggle. Specifically, the datasets were provided from Crunchbase on Kaggle. The datasets were part of the 2013 Snapshot by Crunchbase about the startup world involving all the necessary information across 11 CSV files. These CSV files had information about acquisitions, IPOs, funding rounds, investors, personnels, milestones, office locations, people associated with these startups, funds. The total number of rows when all the CSV files were considered, amounted to 0.5 Million rows of data. On a thorough note, the different CSV files are described as follows:
 <br><br>
-- acquisitions.csv file contains data about startups that have been acquired,<br>
-- IPO.csv contains information about startups that IPOed, <br>
-- funding_rounds.csv and funds.csv contains funding information pertaining to different startups,<br>
-- investments.csv holds the information about venture capitalists involved in the funding, <br>
-- milestones.csv contains the timeline of milestones achieved by each startup with clear descriptions,<br>
-- offices.csv contains the information about the startups’ offices and their locations, <br>
-- people.csv and degrees.csv contains data regarding education, personal information for all the personnel related to the startups from CEOs to staff, <br>
-- relationships.csv contains data about different connections of personnel and startups. <br>
--objects.csv acts as a master table which contains some additional information about all the startups that were mentioned in the remaining 10 csvs. <br><br><br>
+* acquisitions.csv file contains data about startups that have been acquired,<br>
+* IPO.csv contains information about startups that IPOed, <br>
+* funding_rounds.csv and funds.csv contains funding information pertaining to different startups,<br>
+* investments.csv holds the information about venture capitalists involved in the funding, <br>
+* milestones.csv contains the timeline of milestones achieved by each startup with clear descriptions,<br>
+* offices.csv contains the information about the startups’ offices and their locations, <br>
+* people.csv and degrees.csv contains data regarding education, personal information for all the personnel related to the startups from CEOs to staff, <br>
+* relationships.csv contains data about different connections of personnel and startups. <br>
+* objects.csv acts as a master table which contains some additional information about all the startups that were mentioned in the remaining 10 csvs. <br><br><br>
 </p>
 
 
