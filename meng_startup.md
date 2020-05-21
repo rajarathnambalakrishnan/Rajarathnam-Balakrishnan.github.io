@@ -43,21 +43,21 @@ The most challenging part of the data preparation was the many to many and one t
 <br><br></p>
 
 ### Analysis:
-<p style="text-align: justify;">
 
 **Series A Prediction:** 
+<p style="text-align: justify;">
 For our models, we define the company as a success when it moves to series A funding or above from seed funding. 
 <br><br>
 After exploring our dataset, we found out that most of the startups did not make it to Series A funding. Thus, for our baseline model, we decided to predict all startups fail to reach Series-A. We tried Four different machine learning models, which are Logistic, LDA, Vanilla bagging, and CART model. The accuracy for those models are shown in the following table:
-<br><br></p>
+<br></p>
 
 | Model              | Accuracy | TPR   | 
-| -------------------|:--------:| -----:|
+| --------------|:--------:| -----:|
 | **Baseline**       | 0.634    | 0     |
-| **Logistic**       | 0.634    | 0     |
-| **LDA**            | 0.634    | 0     |
-| **Vanilla bagging**| 0.634    | 0     |
-| **CART**           | 0.634    | 0     |
+| **Logistic**       | 0.634    | 0.65  |
+| **LDA**            | 0.634    | 0.25  |
+| **Vanilla bagging**| 0.634    | 0.42  |
+| **CART**           | 0.634    | 0.27  |
 
 <p style="text-align: justify;">
 From the table we can see that the LDA and CART model had better performance than the baseline model, with accuracy 0.652 and 0.664 accordingly. Based on the accuracy, we decided to choose CART as our final model. 
