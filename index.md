@@ -26,7 +26,8 @@
 ### [Volvo Cars: Pedestrian Intention Prediction](/meng_volvo.md)
 
 <p align='left'>
-    <img src="images/modelC.gif?raw=true" width="400" height="220"/>
+    <a href='https://rajarathnambalakrishnan.github.io/webpage/meng_volvo.html'>
+    <img src="images/modelC.gif?raw=true" width="400" height="220"/></a>
 </p> 
 
 ### [Image Recognition for Autonomous Driving](/meng_capstone.md)
