@@ -1,6 +1,6 @@
 # About Me
 <p style="text-align: justify;">
-Before we start let me just list the things I'm confident and good at drawing, painting, table-tennis, cooking, video-editing and well let me stop while I'm ahead! Eventually I picked up a few more things along the way as you read through the paragraphs.
+Before we start let me just list the things I'm confident and good at: drawing, painting, table-tennis, cooking, video-editing and well let me stop while I'm ahead! Eventually I picked up a few more things along the way as you read through the paragraphs.
 <br><br>
 I received my B.Tech Undergrad degree in Mechanical Engineering from SRM Institue of Science and Technology, Chennai, India. If you had asked me back then: What was the reason/motivation to do a 4-year degree in Mechanical Engineering ?, then I would have said that I wanted to build an Iron Man Suit. Yes, you heard it right. Tony Stark's Mark 42 Autonomous Prehensile Propulsion Suit. Funny right? But, I was devoted to the cause and dreamt of building something even close to it if not the same. As all dreams get a reality check, I found out the hard way that it was not that easy to build something to that size given the power and force/strength requirements. But the dream to build something unique and marvelous stayed on. Fast forward and I finished my undergrad with a focus on Operations Research and Data Analysis. 
 <br><br>
