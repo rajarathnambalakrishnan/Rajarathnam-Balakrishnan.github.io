@@ -2,7 +2,7 @@
 
 ## About Me
 ---
-[I recieved my.....](/about.md)
+[I recieved my [+more...]](/about.md)
 
 ## Education
 ---
