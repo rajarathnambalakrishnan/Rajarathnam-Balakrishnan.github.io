@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://github.com/rajarathnambalakrishnan/webpage/raw/master/pdf/Rajarathnam_Balakrishnan_Resume.pdf" target='_blank'>
   Resume | 
-  </a>
+  </a><embed src=https://github.com/rajarathnambalakrishnan/webpage/raw/master/pdf/Rajarathnam_Balakrishnan_Resume.pdf" width="1000px" height="800px" />
   <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135' target = '_blank'>
   LinkedIn | 
   </a>
