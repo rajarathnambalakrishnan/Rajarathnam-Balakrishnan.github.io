@@ -9,12 +9,18 @@ description: > # your text below (remove <br> elements if you don't need line br
   Thank you for taking the time to know more about my works. 
   <br>
   <br>
-  <a href="https://github.com/rajarathnambalakrishnan/webpage/raw/master/pdf/Rajarathnam_Balakrishnan_Resume.pdf" target='_blank'>
-  Resume | 
-  </a><embed src=https://github.com/rajarathnambalakrishnan/webpage/raw/master/pdf/Rajarathnam_Balakrishnan_Resume.pdf" width="1000px" height="800px" />
-  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135' target = '_blank'>
-  LinkedIn | 
+  <a href="https://docs.google.com/viewer?url=https://github.com/rajarathnambalakrishnan/webpage/raw/master/pdf/Rajarathnam_Balakrishnan_Resume.pdf" target='_blank'>
+  View Resume 
   </a>
+  <br>
+  <a href="https://github.com/rajarathnambalakrishnan/webpage/raw/master/pdf/Rajarathnam_Balakrishnan_Resume.pdf" download>
+  Download Resume
+  </a>
+  <br>
+  <a href='https://www.linkedin.com/in/rajarathnam-balakrishnan-7b447b135' target = '_blank'>
+  LinkedIn
+  </a>
+  <br>
   <a href='https://github.com/rajarathnambalakrishnan' target = '_blank'>
   GitHub Page
   </a>
